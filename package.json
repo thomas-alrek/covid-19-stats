@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "animated-number-vue": "^1.0.0",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "core-js": "^3.6.4",
     "dayjs": "^1.8.23",
     "vue": "^2.6.11",
